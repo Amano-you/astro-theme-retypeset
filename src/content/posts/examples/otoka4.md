@@ -2,7 +2,7 @@
 title: 【OTOKA SUB-004】朦胧的山荷叶 (2021)
 published: 2022-04-18
 lang: zh
-abbrlink: OTOKA-SUB
+abbrlink: otoka-sub
 ---
 
 
