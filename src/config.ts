@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     // site title
     title: '夏の大三角',
     // site subtitle
-    subtitle: 'A drug store',
+    subtitle: 'Something and nothing.',
     // site description
     description: 'Something and nothing.',
     // use i18n title/subtitle/description from src/i18n/ui.ts instead of static ones above
@@ -61,7 +61,7 @@ export const themeConfig: ThemeConfig = {
     locale: 'zh', // de | en | es | fr | ja | ko | pl | pt | ru | zh | zh-tw
     // more languages
     // not fill in the locale code above again, can be an empty array []
-    moreLocales: ['en', 'es', 'ja', 'ru', 'zh-tw'], // ['de', 'en', 'es', 'fr', 'ja', 'ko', 'pl', 'pt', 'ru', 'zh', 'zh-tw']
+    moreLocales: [], // ['de', 'en', 'es', 'fr', 'ja', 'ko', 'pl', 'pt', 'ru', 'zh', 'zh-tw']
     // post font style
     fontStyle: 'sans', // sans | serif
     // post date format
