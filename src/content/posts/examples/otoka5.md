@@ -28,10 +28,9 @@ tags:
 又名: 午夜少女战争 / The Midnight Maiden War
 
 IMDb: tt14323080
- 
-
-
+<br><br>
 【STAFF】
+
 翻译：曜、甘喵
 
 后期整理：甘喵

@@ -24,9 +24,7 @@ tags:
 上映日期: 2022-03-17(大阪亚洲电影节) / 2022-04-01(日本)片长: 110分钟
 
 又名: 想被女高中生杀掉 / To Be Killed by a High School GirlIMDb: tt21439866
-
-
-
+<br><br>
 【STAFF】
 
 翻译：想被ＤＫ攻略的曜老师
@@ -34,8 +32,7 @@ tags:
 后期整理：想被ＤＫ叼着热干面撞到的甘喵
 
 对应片源：To.Be.Killed.by.a.High.School.Girl.2022.AMAZON.WEB-DL.1080p.X264-XRES.mp4
- 
-
+<br><br>
 :::fold[DOWNLOAD]
 [【DOWNLOAD】](https://pan.baidu.com/s/1LnUO2X3N0111U64dQNHj3g?pwd=c3t8) c3t8
 
