@@ -3,7 +3,7 @@ title: 【OTOKA SUB-005】深夜少女战争 (2022)
 published: 2022-05-17
 lang: zh
 abbrlink: otokasub5
-description: 朦胧的山荷叶 かそけきサンカヨウ (2021)
+description: 深夜少女战争 真夜中乙女戦争 (2022)
 tags:
   - OTOKA_SUB
 ---

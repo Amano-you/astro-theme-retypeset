@@ -1,9 +1,9 @@
 ---
 title: 【OTOKA SUB-010】神求回报 (2022)
-published: 2022-09-07
+published: 2023-01-05
 lang: zh
 abbrlink: otokasub10
-description: 乘上夏日影像 サマーフィルムにのって (2020)
+description: 神求回报 神は見返りを求める (2022)
 tags:
   - OTOKA_SUB
 ---
@@ -11,11 +11,11 @@ tags:
 
 神寻求回报 神は見返りを求める (2022)
 
-导演:吉田惠辅
+导演: 吉田惠辅
 
-编剧:吉田惠辅
+编剧: 吉田惠辅
 
-主演:室毅/岸井雪乃/若叶龙也/吉村界人/淡梨/更多...
+主演: 室毅/岸井雪乃/若叶龙也/吉村界人/淡梨/更多...
 
 类型: 剧情
 
@@ -43,6 +43,7 @@ IMDb: tt25809450
 
 对应片源：Kami.wa.Mikaeri.o.motomeru.2022.AMAZON.WEB-DL.1080p.X264-XRES.mp4
 
+<br><br>
 
 :::fold[DOWNLOAD]
 [【DOWNLOAD】](https://pan.baidu.com/s/1bD-7AGbCZNs_k__2i4WKdw) j5kk
