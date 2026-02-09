@@ -2,7 +2,7 @@
 title: 【OTOKA SUB-023】福田村事件 (2023)
 published: 2024-01-15
 lang: zh
-abbrlink: otokasub10
+abbrlink: otokasub23
 description: 福田村事件 福田村事件 (2023)
 tags:
   - OTOKA_SUB
