@@ -7,7 +7,7 @@ abbrlink: introduction
 description: 置顶
 ---
 
-## 关于我
+## 关于
 
 >The Summer Triangle is an astronomical asterism in the northern celestial hemisphere. Its defining vertices are triangle are Altair, Deneb, and Vega, each the brightest star of its constellation.
 
@@ -26,26 +26,26 @@ description: 置顶
 ### 民汉项目
 
 - 游戏
-  - 我的现实生活太过于充实 <font color = lightgray>私のリアルは充実しすぎている</font>
+  - 我的现实生活太过于充实 私のリアルは充実しすぎている
   - <font color = lightgray>アルカナファミリア</font>
   - <font color = lightgray>アイするキミの居場所</font>
-  - 月姬 <font color = lightgray>月姫 -A piece of blue glass moon-</font>
+  - 月姬 月姫 -A piece of blue glass moon-
   - Blakish House ←sideZ
 <br><br>
 - 漫画
-  - 距离车站5分钟 <font color = lightgray>駅から５分</font>
+  - 距离车站5分钟 駅から５分
   - <font color = lightgray>恋だの愛だの～君は僕の太陽だ～</font>
 <br><br>
 - 同人志
-  - しえいのそんなにいる <font color = lightgray>原作「紫影のソナニール」</font>
+  - しえいのそんなにいる  *原作「紫影のソナニール」
 
 ### 官中项目
 
-- 我的超级现充生活
+- 我的超级现充生活  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/2106520)</font> <font color = lightgray>[[vndb]](https://vndb.org/v13321)</font>
 - <font color = lightgray>白光的伐鲁希亚</font>
-- FolieFatale 致命至爱
-- 魔法少女的魔女审判 <font color = lightgray>[Steam]https://store.steampowered.com/app/3101040/</font> <font color = lightgray>[vndb](https://vndb.org/v50283)</font>
-- 不可以和偶像XXX吗？
+- FolieFatale 致命至爱  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/2734450/Folie_Fatale/)</font> <font color = lightgray>[[vndb]](https://vndb.org/v49057)</font>
+- 魔法少女的魔女审判  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/3101040/)</font> <font color = lightgray>[[vndb]](https://vndb.org/v50283)</font>
+- 不可以和偶像XXX吗？  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/4067070/XXX/)</font> <font color = lightgray>[[vndb]](https://vndb.org/v59457)</font>
 
 <hr>
 
