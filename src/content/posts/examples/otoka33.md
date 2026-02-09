@@ -1,6 +1,6 @@
 ---
 title: 【OTOKA SUB-033】新景世代 (2025)
-published: 2025-02-05
+published: 2026-02-06
 lang: zh
 abbrlink: otokasub33
 description: 新景世代 見はらし世代 (2025)
