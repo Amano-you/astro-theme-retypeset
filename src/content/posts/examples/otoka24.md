@@ -1,13 +1,13 @@
 ---
-title: 【OTOKA SUB-024】白键与黑键之间 (2023)
+title: 【OTOKA SUB-024】黑白键之间 (2023)
 published: 2024-03-06
 lang: zh
 abbrlink: otokasub24
-description: 白键与黑键之间 白鍵と黒鍵の間に (2023)
+description: 黑白键之间 白鍵と黒鍵の間に (2023)
 tags:
   - OTOKA_SUB
 ---
-# **白键与黑键之间 白鍵と黒鍵の間に (2023)**
+# **黑白键之间 白鍵と黒鍵の間に (2023)**
 
 导演: 富永昌敬
 
