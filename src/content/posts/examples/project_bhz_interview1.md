@@ -3,7 +3,7 @@ title: 【个人翻译】Blackish House ←sideZ 声优访谈
 published: 2024-12-30
 lang: zh
 abbrlink: project-bhz-interview1
-description: Blackish House ←sideZ
+description: Blackish House ←sideZ 声优访谈
 tags:
   - 个人汉化
 ---
