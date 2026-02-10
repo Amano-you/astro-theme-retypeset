@@ -29,11 +29,11 @@ description: 置顶
   - 我的现实生活太过于充实 私のリアルは充実しすぎている
   - <font color = lightgray>アルカナファミリア</font>
   - <font color = lightgray>アイするキミの居場所</font>
-  - 月姬 月姫 -A piece of blue glass moon-
-  - Blakish House ←sideZ
+  - 月姬 -A piece of blue glass moon- 月姫 -A piece of blue glass moon-
+  - Blackish House ←sideZ
 <br><br>
 - 漫画
-  - 距离车站5分钟 駅から５分
+  - 距离车站5分钟 駅から5分
   - <font color = lightgray>恋だの愛だの～君は僕の太陽だ～</font>
 <br><br>
 - 同人志
@@ -41,11 +41,11 @@ description: 置顶
 
 ### 官中项目
 
-- 我的超级现充生活  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/2106520)</font> <font color = lightgray>[[vndb]](https://vndb.org/v13321)</font>
-- <font color = lightgray>白光的伐鲁希亚</font>
-- FolieFatale 致命至爱  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/2734450/Folie_Fatale/)</font> <font color = lightgray>[[vndb]](https://vndb.org/v49057)</font>
-- 魔法少女的魔女审判  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/3101040/)</font> <font color = lightgray>[[vndb]](https://vndb.org/v50283)</font>
-- 不可以和偶像XXX吗？  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/4067070/XXX/)</font> <font color = lightgray>[[vndb]](https://vndb.org/v59457)</font>
+- 我的超级现充生活  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/2106520) [[vndb]](https://vndb.org/v13321)</font>
+- <font color = lightgray>白光的伐鲁希亚 [[Steam]](https://store.steampowered.com/app/1881910) [[vndb]](https://vndb.org/v2390)</font>
+- FolieFatale-致命至爱-  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/2734450/Folie_Fatale/) [[vndb]](https://vndb.org/v49057)</font>
+- 魔法少女的魔女审判  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/3101040/) [[vndb]](https://vndb.org/v50283)</font>
+- 不可以和偶像XXX吗？  <font color = lightgray>[[Steam]](https://store.steampowered.com/app/4067070/XXX/) [[vndb]](https://vndb.org/v59457)</font>
 
 <hr>
 
@@ -59,9 +59,7 @@ description: 置顶
 
 本站索引：标签 / OTOKA_SUB
 
-<hr>
 
-## 杂谈
 
 
 
