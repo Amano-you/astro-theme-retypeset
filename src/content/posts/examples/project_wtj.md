@@ -1,5 +1,5 @@
 ---
-title: 【个人汉化】我的现实生活太过于充实 私のリアルは充実しすぎている
+title: 【个人汉化】我的现实生活太过于充实
 published: 2018-09-08
 lang: zh
 abbrlink: project-wtj
@@ -30,7 +30,6 @@ TetraScope
 总是板着个脸的傲慢弟弟，向往的学生会会长，突如其来的转校生……
 
 个性十足的角色们齐聚身边，迎接现充的崭新每一天！
-
 <br><br>
 
-<font color = lightgray>※因年代久远翻译质量一般，仅作存档。</font>
+<font color = lightgray>※本项目仅作存档。</font>

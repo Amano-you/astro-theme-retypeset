@@ -26,7 +26,6 @@ tags:
 擦肩而过的人们，一幕幕交错的风景。
 
 距离车站5分钟，花染町——
-
 <br><br>
 
-<font color = lightgray>※因年代久远翻译质量一般，仅作存档。</font>
+<font color = lightgray>※本项目仅作存档。</font>
