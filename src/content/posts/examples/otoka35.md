@@ -1,9 +1,9 @@
 ---
-title: 【OTOKA SUB-035】佐藤妻夫物语 (2026)
+title: 【OTOKA SUB-035】佐藤妻夫物语 (2025)
 published: 2026-10-27
 lang: zh
 abbrlink: otokasub35
-description: 佐藤妻夫物语 佐藤さんと佐藤さん (2026)
+description: 佐藤妻夫物语 佐藤さんと佐藤さん (2025)
 tags:
   - OTOKA_SUB
 ---
