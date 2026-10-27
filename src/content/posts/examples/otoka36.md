@@ -41,7 +41,7 @@ IMDb: tt36834996
 对应片源：Soudain.2026.French.1080P.Web.AV1.mkv
 <br><br>
 :::fold[DOWNLOAD]
-[【DOWNLOAD】](待) bewa
+[【DOWNLOAD】](https://pan.baidu.com/s/1wqXW-SkNnsI0kjeThBWKdQ) 7hru
 
-[【外挂字幕】](待)
+[【外挂字幕】](https://zimuku.org/detail/238244.html)
 :::
