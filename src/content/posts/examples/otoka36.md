@@ -1,6 +1,6 @@
 ---
 title: 【OTOKA SUB-036】一瞬间 (2026)
-published: 2026-10-27
+published: 2026-10-28
 lang: zh
 abbrlink: otokasub36
 description: 一瞬间 急に具合が悪くなる (2026)
@@ -41,7 +41,9 @@ IMDb: tt36834996
 对应片源：Soudain.2026.French.1080P.Web.AV1.mkv
 <br><br>
 :::fold[DOWNLOAD]
-[【DOWNLOAD】](https://pan.baidu.com/s/1wqXW-SkNnsI0kjeThBWKdQ) 7hru
+[【度】](https://pan.baidu.com/s/1wqXW-SkNnsI0kjeThBWKdQ) 7hru
+
+[【夸】](https://pan.quark.cn/s/46cad16309fe) P4kU
 
 [【外挂字幕】](https://zimuku.org/detail/238244.html)
 :::
